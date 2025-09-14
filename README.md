@@ -230,9 +230,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [ ] Export functionality for reports
 - [ ] Advanced ML models for better forecasting
 
-## 📞 Support
 
-For support, email your-email@example.com or create an issue in this repository.
 
 ## 🙏 Acknowledgments
 
@@ -241,5 +239,3 @@ For support, email your-email@example.com or create an issue in this repository.
 - Contributors and beta testers
 
 ---
-
-**Built with ❤️ using Django and Machine Learning**
